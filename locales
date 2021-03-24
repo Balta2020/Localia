@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 , TIGO SPORT
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF:-1 , MOVISTAR FUTBOL
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=SbtWAlU4KDy7x5u_kEq0cA&e=1616457262
+#EXTINF:-1 , HCH
+https://5d597bfcee285.streamlock.net/hch/hch/.m3u8
+#EXTINF:-1 , La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 , TUDN USA
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/enk84bcf5g.m3u8?s=g6aEzazZeBvxKJcXwj2G-Q&e=1616470380
+#EXTINF:-1 , Canal 26
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1069723754_b1864000_sleng.m3u8
+#EXTINF:-1 , TSI
+https://www.dailymotion.com/cdn/live/video/x7xs2wx.m3u8?sec=Q1SDWS6gnXr0e4vL1Yp0IO3gPdK2AldtSDYKersE6_uTVCUhzc2fdFiedyVRGZwtbj_swjam3YTzTMiaGVvp5Q
+#EXTINF:-1 , TV PUBLICA
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+
+
